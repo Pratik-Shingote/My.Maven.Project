@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24301" started-at="2022-04-22T11:06:34Z" finished-at="2022-04-22T11:06:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24301" started-at="2022-04-22T11:06:34Z" finished-at="2022-04-22T11:06:59Z">
+      <class name="Project1.Welcome">
+        <test-method status="PASS" signature="bye()[pri:0, instance:Project1.Welcome@6108b2d7]" name="bye" duration-ms="1" started-at="2022-04-22T16:36:59Z" finished-at="2022-04-22T16:36:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bye -->
+        <test-method status="PASS" signature="hello()[pri:0, instance:Project1.Welcome@6108b2d7]" name="hello" duration-ms="1" started-at="2022-04-22T16:36:59Z" finished-at="2022-04-22T16:36:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+      </class> <!-- Project1.Welcome -->
+      <class name="Project1.SelTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:Project1.SelTest@edf4efb]" name="f" duration-ms="24243" started-at="2022-04-22T16:36:35Z" finished-at="2022-04-22T16:36:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Project1.SelTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
